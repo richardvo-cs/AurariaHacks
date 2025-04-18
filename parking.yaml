@@ -1,0 +1,9 @@
+path: /Users/penguin/AurariaHacks/AurariaHacks/parking-occupancy/data/pklot
+train: images/train
+val: images/val
+
+names:
+  0: vacant
+  1: occupied
+
+nc: 2 
